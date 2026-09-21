@@ -4526,6 +4526,7 @@ béo ú
 béo ụ
 béo xù
 béo xụ
+béo ỵ
 bẹo
 bép
 bép múp
@@ -4961,7 +4962,7 @@ bích quy
 Bích Sơn
 bích thủy
 bích thuỷ
-bích-toong
+bích toong
 bịch
 bichcôt
 bichquy
@@ -6747,7 +6748,7 @@ Bru
 Bru-Vân Kiều
 BS
 bu
-Bu-Đâng
+Bu Đâng
 Bu Đêh
 bu-gi
 bu-lông
@@ -17248,6 +17249,8 @@ cừu quốc
 cừu thị
 cừu thù
 cửu
+cửu vạn
+cửu cửu
 Cửu An
 Cửu Cao
 cửu chương
@@ -18796,6 +18799,7 @@ diệp
 diệp chi
 diệp lục
 diệp thạch
+diệp thuế
 diệt
 diệt chủng
 diệt chuột
@@ -54200,6 +54204,7 @@ sạo sục
 sáp
 sáp nhập
 sáp ong
+sáp thô
 sạp
 sạp hàng
 sát
@@ -58869,6 +58874,7 @@ thau bạc
 thau chua
 thau chua rửa mặn
 thau tháu
+thau nhôm
 tháu
 tháu cáy
 thay
